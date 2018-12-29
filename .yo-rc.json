@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.app.twa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "TWA",
+    "packageName": "com.app.twa",
+    "packageFolder": "com/app/twa",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTE5MmFkYThjMjc2NTdjNzY2YzUzYzVmNWI0ZDQzNzEzZGFkNDAyZGJkZWMyYzIwM2Q0ZTk3OTc2YjI0OWE3ODVjZmNjODJmODVhNmEzMGIxY2ZmMmJmOGM5MGI2NWYzNWY5MTNkMDRlNmJlOWYwY2QxNDQwZTJjYTM2OGNlZjI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
